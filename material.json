@@ -1,0 +1,20 @@
+{
+    "name": "eeeee",
+    "title": "eeeee",
+    "description": "",
+    "repository": {
+        "url": "https://github.com/chenxing-lh/wulaio.git",
+        "private": 1,
+        "auth": {
+            "username": "381606250@qq.com",
+            "password": "uCQ+nFi2LJ0mCcjS9UAJqV4U2zmWTggmwEwt27rtbZv5cMGvGPw5YoB0LXt0+hJ0oHNk5BnHvpk5M6OypAn2bA=="
+        }
+    },
+    "map": {
+        "components": [],
+        "blocks": [],
+        "pages": [],
+        "templates": []
+    },
+    "materialId": 206
+}
